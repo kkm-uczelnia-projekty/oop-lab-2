@@ -1,6 +1,6 @@
 namespace po
 {
-    class Person
+    public class Person
     {
         protected string name { get; }
         protected int age { get; }
