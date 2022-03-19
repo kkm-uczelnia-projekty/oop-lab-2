@@ -9,7 +9,7 @@ namespace po
 
         public override string ToString()
         {
-            return String.Format("Teacher: ", base.ToString());
+            return String.Format("Teacher: {0}", base.ToString());
         }
     }
 }
